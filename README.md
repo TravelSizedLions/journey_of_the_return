@@ -88,7 +88,7 @@ level & boss.
 Each rescued villager gives clues as to the brother's whereabouts, taking Jerrod and Ephraim deeper and deeper into the city. And with each villager, Jerrod must reconcile his own past mistakes that caused him to run from Earth in the first place.
 
 <p align="center">
-  <img align="center" width="500" src="./images/pulsating_finished.gif" />
+  <img align="center" width="100%" src="./images/pulsating_finished.gif" />
 </p>
 
 Eventually, they learn that the wayward brother has left the city and is making his way up Mt. Gigabit, a nearby mountain.
