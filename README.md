@@ -2,16 +2,6 @@
   <img align="center" src="./images/title.png" />
 </p>
 
-
-## Play the Latest Build!
-I'm currently putting together the first chapter of the game, but feel free to
-get the [latest build](https://github.com/TheHumanBuilders/journey_of_the_return) and try it
-out. :)
-
-<p align="center">
-    <img align="center" width="500" src="./images/carrying.png" />
-</p>
-
 <div style="padding: 20px;" />
 
 ## Moment to Moment Gameplay
