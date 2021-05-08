@@ -32,9 +32,6 @@ Whenever the player finds and rescues a robot, the robot will return with the pl
   <img align="center" width="500" src="./images/galaxies_map_fixed.gif" />
 </p>
 
-
-<hr/>
-
 ### Act 1: Leaving the Ninety and Nine
 
 Jerrod, an artificial intelligence expert working as a technician on a space ship called "The Return" crash lands by a small village on Nataal, a planet full of robots. He escapes from the wreckage with a few injured survivors, and is taken to the village by a robot named Ephraim in order to tend the others' wounds.
