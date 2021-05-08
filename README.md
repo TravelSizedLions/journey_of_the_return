@@ -12,20 +12,11 @@ out. :)
     <img align="center" width="500" src="./images/carrying.png" />
 </p>
 
-
-
-
+<div style="padding: 20px;" />
 
 ## Moment to Moment Gameplay
 
-
-
-
-
 The game will be a mixture of world exploration, hardcore platforming sections ala Celeste, and a focus on larger-than-life boss battles. Since much of the game will take place in a city, exploring the world will require finding ways to open locked doors or bridge gaps, or convince an NPC to give the information necessary to continue forward. As the player goes along, they'll bump into robots in need of aid. The player plugs into them and starts up a classic platforming section ending in a boss battle in order to save them from their self destructive programming. The main goal of the game is find and rescue the rebelious little brother of your robot companion Ephraim and collect enough scrap metal to repair your ship and return home. 
-
-
-
 
 <p align="center">
   <img align="center" width="500" src="./images/rage_color.png" />
