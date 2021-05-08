@@ -24,8 +24,6 @@ The game will be a mixture of world exploration, hardcore platforming sections a
 
 Whenever the player finds and rescues a robot, the robot will return with the player to a village where they'll stay the rest of the game.  Over time as the player rescues more robots, the appearance of the village will become more & more lively with the return of old friends and new one.
 
-<hr/>
-
 <div style="padding: 20px"/>
 
 <h1 align="center">The Basic Story<p/>
