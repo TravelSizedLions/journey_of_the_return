@@ -15,8 +15,6 @@ out. :)
 
 
 
-<hr/>
-<div style="padding: 20px"/>
 
 ## Moment to Moment Gameplay
 
