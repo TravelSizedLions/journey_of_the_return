@@ -111,20 +111,3 @@ If Jerrod does not have enough scrap to repair his ship (only possible if the pl
 <p align="center">
   <img align="center" width="500" src="./images/ending.png" />
 </p>
-
-## How this Repo is Organized
-The project follows the basic Unity Project structure:
-* [Assets](): This is the meat of the project. Code, scenes, art, sound, animation, you name it.
-* [Packages](): A shell folder. When opening the project in Unity, the manifest.json will be used to determine which Unity packages get loaded up. 
-* [ProjectSettings](): Contains all of the project's global preferences and settings. 
-
-## Getting Started with Unity
-[Unity Homepage](https://unity.com)
-
-## Getting Started with Python
-[Using C# code to talk to Python and Vice Versa](https://www.codeproject.com/Articles/602112/Scripting-NET-Applications-with-IronPython)
-
-## Ideas
-Some other thoughts and ideas I'm playing with:
-- I'm hoping to weave in a personal story for the character as well. The idea is that he left Earth with a laundry list full of his own problems, and by the end of the story decides to go back and face his problems and mistakes.
-- The player has an AI he created who comes along with him, and who acts as a bit of a nagging shoulder angel. You later learn that his wife, who he's separated from,  actually tapped into the AI's subsystems shortly after the crash and has been watching over him, hoping that he would choose to come home.
