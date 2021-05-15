@@ -2,40 +2,17 @@
   <img align="center" src="./images/title.png" />
 </p>
 
-
-## Play the Latest Build!
-I'm currently putting together the first chapter of the game, but feel free to
-get the [latest build](https://github.com/hiltonjp/journey_build) and try it
-out. :)
-
-<p align="center">
-    <img align="center" width="500" src="./images/carrying.png" />
-</p>
-
-
-
-
-<hr/>
-<div style="padding: 20px"/>
+<div style="padding: 20px;" />
 
 ## Moment to Moment Gameplay
 
-
-
-
-
 The game will be a mixture of world exploration, hardcore platforming sections ala Celeste, and a focus on larger-than-life boss battles. Since much of the game will take place in a city, exploring the world will require finding ways to open locked doors or bridge gaps, or convince an NPC to give the information necessary to continue forward. As the player goes along, they'll bump into robots in need of aid. The player plugs into them and starts up a classic platforming section ending in a boss battle in order to save them from their self destructive programming. The main goal of the game is find and rescue the rebelious little brother of your robot companion Ephraim and collect enough scrap metal to repair your ship and return home. 
-
-
-
 
 <p align="center">
   <img align="center" width="500" src="./images/rage_color.png" />
 </p>
 
 Whenever the player finds and rescues a robot, the robot will return with the player to a village where they'll stay the rest of the game.  Over time as the player rescues more robots, the appearance of the village will become more & more lively with the return of old friends and new one.
-
-<hr/>
 
 <div style="padding: 20px"/>
 
@@ -44,9 +21,6 @@ Whenever the player finds and rescues a robot, the robot will return with the pl
 <p align="center">
   <img align="center" width="500" src="./images/galaxies_map_fixed.gif" />
 </p>
-
-
-<hr/>
 
 ### Act 1: Leaving the Ninety and Nine
 
@@ -104,7 +78,7 @@ level & boss.
 Each rescued villager gives clues as to the brother's whereabouts, taking Jerrod and Ephraim deeper and deeper into the city. And with each villager, Jerrod must reconcile his own past mistakes that caused him to run from Earth in the first place.
 
 <p align="center">
-  <img align="center" width="500" src="./images/pulsating_finished.gif" />
+  <img align="center" width="100%" src="./images/pulsating_finished.gif" />
 </p>
 
 Eventually, they learn that the wayward brother has left the city and is making his way up Mt. Gigabit, a nearby mountain.
@@ -127,20 +101,3 @@ If Jerrod does not have enough scrap to repair his ship (only possible if the pl
 <p align="center">
   <img align="center" width="500" src="./images/ending.png" />
 </p>
-
-## How this Repo is Organized
-The project follows the basic Unity Project structure:
-* [Assets](): This is the meat of the project. Code, scenes, art, sound, animation, you name it.
-* [Packages](): A shell folder. When opening the project in Unity, the manifest.json will be used to determine which Unity packages get loaded up. 
-* [ProjectSettings](): Contains all of the project's global preferences and settings. 
-
-## Getting Started with Unity
-[Unity Homepage](https://unity.com)
-
-## Getting Started with Python
-[Using C# code to talk to Python and Vice Versa](https://www.codeproject.com/Articles/602112/Scripting-NET-Applications-with-IronPython)
-
-## Ideas
-Some other thoughts and ideas I'm playing with:
-- I'm hoping to weave in a personal story for the character as well. The idea is that he left Earth with a laundry list full of his own problems, and by the end of the story decides to go back and face his problems and mistakes.
-- The player has an AI he created who comes along with him, and who acts as a bit of a nagging shoulder angel. You later learn that his wife, who he's separated from,  actually tapped into the AI's subsystems shortly after the crash and has been watching over him, hoping that he would choose to come home.
