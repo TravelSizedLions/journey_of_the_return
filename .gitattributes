@@ -6,3 +6,4 @@ windows filter=lfs diff=lfs merge=lfs -text
 linux/jotr_Data/sharedassets29.assets.resS filter=lfs diff=lfs merge=lfs -text
 mac.app/Contents/Resources/Data/sharedassets29.assets.resS filter=lfs diff=lfs merge=lfs -text
 windows/Journey[[:space:]]of[[:space:]]the[[:space:]]Return_Data/sharedassets29.assets.resS filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
